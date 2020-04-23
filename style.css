@@ -1,0 +1,199 @@
+* {
+    font-family: arial, sans serif;
+    font-size: 14px;
+    color: black;
+    margin: 0;
+    padding: 0;
+    }
+  
+  .navbar-toplist-left {
+    margin: 0px 0px 0px 0px;
+  }
+  
+  .navbar-toplist-left li {
+    float: left;
+    list-style-type: none;
+    padding: 0px 0px 0px 0px;
+    margin: 20px 0px 10px 0px;
+  }
+  
+  .navbar-toplist-left li a {
+    display: block;
+    color: #333333;
+    text-align: center;
+    padding: 0px 0px 0px 15px;
+    margin: 0px 0px 0px 0px;
+    text-decoration: none;
+  }
+  
+  .navbar-toplist-left li a:hover {
+    text-decoration: underline;
+  }
+  
+  .navbar-header-right {
+    margin: 0px 0px 0px 1200px;
+  }
+  
+  .google-app-icon {
+    width: auto;
+    height: 20px;
+    padding: 17.5px 0px 0px 15px;
+  }
+  
+  .navbar-toplist-right li {
+    float: left;
+    list-style-type: none;
+    margin: 20px 0px 10px 0px;
+    padding: 0px 0px 0px 0px;
+  }
+  
+  .navbar-toplist-right li a {
+    display: block;
+    color: #333333;
+    text-align: center;
+    margin: 0px 0px 0px 15px;
+    padding: 0px 0px 0px 0px;
+    text-decoration: none;
+  }
+  
+  .navbar-toplist-right li a:hover {
+    text-decoration: underline;
+  }
+  
+  .googlepicture {
+    max-width: auto;
+    align-content: center;
+    margin: 0px 0px 0px 0px;
+    padding: 30px 0px 0px 585px;
+  }
+  
+  #searchbox-all {
+    padding: 20px 0px 0px 450px;
+    margin: auto;
+  }
+  
+  .searchbox {
+    padding: 15px 330px 15px 40px;
+    margin: 0px 0px 0px 0px;
+    font-size: 17px;
+    border-radius: 20px 20px 20px 20px;
+    border-width: thin;
+    border-color: #e6e6e6;
+  }
+  
+  .searchbox:hover {
+    box-shadow: 1px 1px 3px 1px #f2f2f2;
+  }
+  
+  .Searchbutton1 {
+    position: absolute;
+    color: #595959;
+    font-size: 14px;
+    margin: 35px -135px 30px 145px;
+    padding: 10px 14px 10px 14px;
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .Searchbutton2 {
+    position: absolute;
+    color: #595959;
+    font-size: 14px;
+    margin: 35px -135px 30px 280px;
+    padding: 10px 10px 10px 14px;
+    border-style: none;
+    border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+  }
+  
+  .Searchbutton1:hover {
+    border: thin solid #595959;
+    color: black;
+  }
+  
+  .Searchbutton2:hover {
+    border: thin solid #595959;
+    color: black;
+  }
+  
+  .Googletext {
+    cursor: default;
+    font-size: 13px;
+    padding: 80px 80px 0px 175px;
+  }
+  
+  .Googletext-Pointer {
+    cursor: pointer;
+    font-size: 13px;
+    text-decoration: none;
+    margin: 0px 0px 0px 5px;
+    padding: 0px 0px 0px 0px;
+  }
+  
+  .Googletext-Pointer:hover {
+    text-decoration: underline;
+  }
+  
+  #Countrybar {
+    display: box;
+    color: #595959;
+    border: 1px solid #e6e6e6;
+    background-color: #f2f2f2;
+    margin: 207px 0px 0px 0px;
+    padding: 13px 10px 13px 30px;
+  }
+  
+  
+  .navbarfooterall {
+    background-color: #f2f2f2;
+  }
+  
+  .navbar-bottom-left {
+    background-color: #f2f2f2;
+    margin: 0px 0px 0px 0px;
+  }
+  
+  .navbar-bottom-left li {
+    float: left;
+    background-color: #f2f2f2;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-bottom-left li a {
+    text-decoration: none;
+    display: block;
+    color: #595959;
+    margin: 0px 0px 0px 0px;
+    padding: 13px 10px 13px 30px;
+  }
+  
+  .navbar-bottom-left li a:hover {
+    text-decoration: underline;
+  }
+  
+  .navbar-bottom-right {
+    margin: 0px 0px 0px 0px;
+  }
+  
+  .navbar-bottom-right li {
+    float: right;
+    background-color: #f2f2f2;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-bottom-right li a {
+    display: block;
+    color: #595959;
+    text-decoration: none;
+    margin: 0px 0px 0px 0px;
+    padding: 13px 30px 13px 10px;
+  }
+  
+  .navbar-bottom-right li a:hover {
+    text-decoration: underline;
+  }
