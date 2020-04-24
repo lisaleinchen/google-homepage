@@ -108,13 +108,17 @@
   }
   
   .Searchbutton1:hover {
-    border: thin solid #595959;
+    border: solid;
     color: black;
+    border-color: rgba(0, 0, 0, .2);
+    border-width: .8px;
   }
   
   .Searchbutton2:hover {
-    border: thin solid #595959;
-    color: black;
+border: solid;
+color: black;
+border-color: rgba(0, 0, 0, .2);
+border-width: .8px;
   }
   
   .Googletext {
