@@ -140,59 +140,60 @@
     color: #595959;
     border: 1px solid #e6e6e6;
     background-color: #f2f2f2;
-    margin: 257px 0px 0px 0px;
+    margin: 280px 0px 0px 0px;
     padding: 13px 10px 13px 30px;
   }
   
-  .navbarfooterall {
+  #navbottom {
     background-color: #f2f2f2;
-  }
+    bottom: 0;
+    }
   
-  .navbar-bottom-left {
-    background-color: #f2f2f2;
-    margin: 0px 0px 0px 0px;
-  }
-  
-  .navbar-bottom-left li {
-    float: left;
-    background-color: #f2f2f2;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  .navbar-bottom-left li a {
-    text-decoration: none;
-    display: block;
-    color: #595959;
-    margin: 0px 0px 0px 0px;
-    padding: 13px 10px 13px 30px;
-  }
-  
-  .navbar-bottom-left li a:hover {
-    text-decoration: underline;
-  }
-  
-  .navbar-bottom-right {
-    margin: 0px 0px 0px 0px;
-  }
-  
-  .navbar-bottom-right li {
-    float: right;
-    background-color: #f2f2f2;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  .navbar-bottom-right li a {
-    display: block;
-    color: #595959;
-    text-decoration: none;
-    margin: 0px 0px 0px 0px;
-    padding: 13px 30px 13px 10px;
-  }
-  
-  .navbar-bottom-right li a:hover {
-    text-decoration: underline;
-  }
+  #footleft {
+      background-color: #f2f2f2;
+      margin: 0px 0px 0px 0px;
+    }
+    
+  #footleft li {
+      float: left;
+      background-color: #f2f2f2;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    
+   #footleft li a {
+      text-decoration: none;
+      display: block;
+      color: #595959;
+      margin: 0px 0px 0px 0px;
+      padding: 13px 10px 13px 30px;
+    }
+    
+   #footleft li a:hover {
+      text-decoration: underline;
+    }
+    
+   #footright {
+      margin: 0px 0px 0px 0px;
+    }
+    
+   #footright li {
+      float: right;
+      background-color: #f2f2f2;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    
+   #footright li a {
+      display: block;
+      color: #595959;
+      text-decoration: none;
+      margin: 0px 0px 0px 0px;
+      padding: 13px 30px 13px 10px;
+    }
+    
+   #footright li a:hover {
+      text-decoration: underline;
+    }
